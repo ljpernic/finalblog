@@ -5,7 +5,7 @@ const postCssPlugins = require('./postcss-config.js');
 
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.example.com"
+    url: siteConfig.url,
     title: siteConfig.title,
     subtitle: siteConfig.subtitle,
     copyright: siteConfig.copyright,
@@ -43,6 +43,7 @@ module.exports = {
             site {
               siteMetadata {
                 site_url: url
+                siteUrl: url
                 title
                 description: subtitle
               }
