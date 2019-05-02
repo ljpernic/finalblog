@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  siteUrl: 'https://lumen.netlify.com',
   title: 'Blog by Leon Perniciaro',
   subtitle: 'Here I am testing what changing this text does.',
   copyright: '© All rights reserved.',
