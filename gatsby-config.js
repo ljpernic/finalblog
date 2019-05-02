@@ -43,7 +43,6 @@ module.exports = {
             site {
               siteMetadata {
                 site_url: url
-                siteUrl: url
                 title
                 description: subtitle
               }
