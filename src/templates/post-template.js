@@ -36,7 +36,7 @@ export const query = graphql`
         disqusShortname
         subtitle
         title
-        siteUrl
+        url
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
