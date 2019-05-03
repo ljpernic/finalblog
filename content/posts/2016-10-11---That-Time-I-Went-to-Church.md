@@ -8,7 +8,7 @@ category: "Personal"
 tags:
   - "Religion"
   - "Germany"
-description: "This is a true story, remembered to the best of my ability: On Sunday, I dredged wrinkled khakis from the bottom of my closet as <em>Frau</em>, my wife, pulled a summer dress on over winter leggings and we loaded Boo into her stroller. We rambled up <em>Roermonderstraße</em>, stopping at last before a big yellow church..."
+description: "This is a true story, remembered to the best of my ability: On Sunday, I dredged wrinkled khakis from the bottom of my closet as Frau, my wife, pulled a summer dress on over winter leggings and we loaded Boo into her stroller. We rambled up Roermonderstraße, stopping at last before a big yellow church..."
 ---
 
 <p>This is a true story, remembered to the best of my ability: On Sunday, I dredged wrinkled khakis from the bottom of my closet as <em>Frau</em>, my wife, pulled a summer dress on over winter leggings and we loaded Boo into her stroller. We rambled up <em>Roermonderstraße</em>, stopping at last before a big yellow church on a hill behind a gas station, where people were waiting for us, the service about to start. Last year, a friend of mine had a baby, and on Sunday, the boy was getting blessed.</p> 
