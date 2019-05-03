@@ -17,19 +17,19 @@ It used to be, “Hey, the Soviets are putting missiles in Cuba,” or “Hey, t
 
 Now, instead of having no information, I have more than I could digest if it was my full-time job, and where once there was just the Soviets, I’m pulled in a hundred directions of existential dread: 
 
-The population bomb is ticking.
-The hole in the ozone will fry us.
-And the North Koreans will nuke us.
-Donald Trump will provoke World War III.
-Immigrants and automation will steal our jobs.
-And Vladimir Putin will destroy western democracy.
-Muslims will come to eat our children (which isn’t halal).
-Global warming will kill our crops and generate super storms.
-Peak oil will arrive and we’ll run out of energy to power our world.
+The population bomb is ticking.<br/>
+The hole in the ozone will fry us.<br/>
+And the North Koreans will nuke us.<br/>
+Donald Trump will provoke World War III.<br/>
+Immigrants and automation will steal our jobs.<br/>
+And Vladimir Putin will destroy western democracy.<br/>
+Muslims will come to eat our children (which isn’t halal).<br/>
+Global warming will kill our crops and generate super storms.<br/>
+Peak oil will arrive and we’ll run out of energy to power our world.<br/>
 Antibiotic effectiveness will end and we’ll die in droves of simple diseases.
 
-Iran will get the bomb.
-Liechtenstein will get the bomb.
+Iran will get the bomb.<br/>
+Liechtenstein will get the bomb.<br/>
 My parents-in-law will get the bomb.
 
 And I have to somehow parse the Encyclopedia Britannica-sized wealth of information and cut through the lies of every "news" source with a polished website and an angle to push, and some of it’s true and some of it’s not, so I end up sitting here without a clear idea of what's happening in the world. 
