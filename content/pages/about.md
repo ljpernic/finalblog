@@ -9,6 +9,6 @@ Don't believe these dour posts: I am an eternal optimist.
 
 ![I am broke.](/media/image-2.jpg)
 
-Look for my forthcoming story "Smallpox Ate the Americas Once" in Issue 6 of ![Factor Four Magazine](http://factorfourmag.com/)\!
+Look for my forthcoming story "Smallpox Ate the Americas Once" in Issue 6 of [Factor Four Magazine](http://factorfourmag.com/)\!
 
 I seldom wear hats.
