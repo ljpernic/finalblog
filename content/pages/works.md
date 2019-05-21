@@ -12,8 +12,12 @@ template: "page"
 <br>
 
 #Audio Fiction#
-<font size="6"><center><a href="http://www.tinkandjupiter.com">Tink and Jupiter</a></center></font>
-<center><img src="https://github.com/ljpernic/finalblog/blob/master/static/media/T%26J_logo_small.jpg" alt="T&J logo" width="150"/></center>
+<center>
+<font size="6"><a href="http://www.tinkandjupiter.com">Tink and Jupiter</a></center></font><br>
+
+![T&J logo](/media/T&J_logo_small.jpg)
+
+</center>
 When Tink discovers she can talk to machines, she accidentally brings to life a retro game console called Jupiter. Now he's escaped and she has to find him before he wreaks havoc in the neighborhood. A coming of age urban fantasy. <br>
 <div style="text-align: right"><small><em>Released by <a href=http://twitter.com/chickenpmondays>Chicken Patty Mondays Productions</a>, Spring 2018</em></small></div>
 
