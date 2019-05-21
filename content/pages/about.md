@@ -9,6 +9,6 @@ I am a writer and translator living in the Rhineland. My jam is science fiction 
 
 Don't believe these dour posts: I am an eternal optimist. 
 
-![I am broke.](/public/media/feather.png)
+![I am broke.](/media/feather.png)
 
 I seldom wear hats.
