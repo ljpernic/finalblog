@@ -13,7 +13,7 @@ template: "page"
 
 #Audio Fiction#
 <center>
-<font size="6"><a href="http://www.tinkandjupiter.com">Tink and Jupiter</a></center></font><br>
+<font size="6"><a href="http://www.tinkandjupiter.com">Tink and Jupiter</a></font>  
 
 ![T&J logo](/media/T&J_logo_small.jpg)
 
