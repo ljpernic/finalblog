@@ -25,4 +25,4 @@ Fully 20% of US oil refining capacity is in Louisiana, and that's a lot of chedd
 
 So if it seems like I write a lot about the end of the world, it's only because I fear New Orleans won't exist in 100 years, and I'm preparing myself for the inevitable.
 
-But even I have to admit: it'll be one hell of a party before this boat sinks.
+But even I have to admit: it'll be one hell of a party before it goes.
