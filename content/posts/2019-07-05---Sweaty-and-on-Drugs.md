@@ -19,7 +19,7 @@ The strangest part of Koblenz? I saw a woman throw her drink in someone's face.
 
 ![I am broke. Woe is me.](/media/Koblenz.jpg)
 
-I met back up with the Bachelor and we climbed into his car, a two-seater convertible with no AC. The road was a furnace and we sweated through our clothes, but we made it to Frankfurt without trouble. 
+I met back up with the Bachelor and we climbed into his car, a two-seater convertible with no AC. The road was a furnace and we sweated through our clothes, but we made it to Frankfurt without trouble.
 
 And then things went off the rails. 
 
