@@ -31,10 +31,14 @@ We caught the train after 9pm and got a fancy steak, and I'd brought enough mone
 
 We went to a <em>Kulturfestival</em> by the opera house and then to a dive bar, and one of our party members kept pushing beer on us, but the heat was making my head hurt and I didn't want to drink it, and then he told us he's an alcoholic, no joke, and he drinks every day, and then I <em>definitely</em> didn't want to drink it, so they let me sit out two rounds of beer, and then the third I secretly poured in a urinal. Alcoholism was the trigger that detonated my first family and I still live among that rubble. It was a cry for help, but I didn't know what else to do but hide. 
 
-We Went to a strip club after 1am. If the night wasn't weird enough, the performances involved dragging men on stage, stripping them to their underwear, spanking them with belts, and pouring hot wax on their chests. This is not to yuck someone else's yums, but it was not by bag. But at last I was allowed to buy a round of beer. 
+We Went to a strip club after 1am. If the night wasn't weird enough, the performances involved dragging men on stage, stripping them to their underwear, spanking them with belts, and pouring hot wax on their chests. This is not to yuck someone else's yums, but it was not my bag. 
+
+At last I was allowed to buy a round of beer. 
 
 By 2:30, I was ready for bed, but the Bachelor insisted I come to a techno party, so we piled into a taxi. The venue seemed cool, and the swelling crowds were having a blast, but the night was over for me. Everyone was sweaty and on drugs and two strangers beside me sat groping each other, and it was all an authentic techno party experience, but I split and walked deserted streets past creepy people literally hiding in bushes to the S-Bahn station, and took the train back to my hotel.
 
-We were on the road by noon, and as we slowly roasted in the car, the three hours we needed to get back to Aachen like a timer on a turkey, I questioned the wisdom of riding with someone who 6 hours earlier was drunk out of his gourd. I kept saying, "I can navigate, I can navigate," but he held his phone on his knee as he steered, and we shouted out our conversation above the roar of the road and wind, and everything was right and good, and at last, three weeks before we leave this land, I had it:
+The next day, we were on the road by noon, and as we slowly roasted in the car, the three hours we needed to get back to Aachen like a timer on a turkey, I questioned the wisdom of riding with someone who 6 hours earlier was fall-down drunk. I kept saying, "I can navigate, I can navigate," but he held his phone on his knee as he steered, and we shouted out our conversation above the roar of the road and the wind, and somehow everything was right and good. Three weeks before we leave this land, I finally got it:
 
-An authentic <em>deutscher Junggesellenabschied.</em> But I'm not sure you could convince me for a second go-round.
+An authentic <em>deutscher Junggesellenabschied.</em> 
+
+But I'm not sure you could convince me for a second go-round.
