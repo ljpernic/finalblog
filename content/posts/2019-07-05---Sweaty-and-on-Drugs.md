@@ -8,10 +8,10 @@ category: "Cultural"
 tags:
   - "social outing"
   - "Climate Change"
-description: "Last week hot air surged up from Africa and coated Western Europe with sweat, and I went to Frankfurt for a bachelor party."
+description: "Last week hot air surged up from Africa and coated Western Europe in sweat, and I went to Frankfurt for a bachelor party."
 ---
 
-Last week hot air surged up from Africa and coated Western Europe with sweat, and I went to Frankfurt for a bachelor party. We stopped in Koblenz for the Bachelor to visit his family, and the city was lovely, the <em>Altstadt</em> nestled between the Moselle and Rhine. The heat hadn't quite come, and I spent hours strolling around and reading <em>Beneath the Sugar Sky</em>, by Seanan McGuire. 
+Last week hot air surged up from Africa and coated Western Europe in sweat, and I went to Frankfurt for a bachelor party. We stopped in Koblenz for the Bachelor to visit his family, and the city was lovely, the <em>Altstadt</em> nestled between the Moselle and Rhine. The heat hadn't quite come, and I spent hours strolling around and reading <em>Beneath the Sugar Sky</em>, by Seanan McGuire. 
 
 The nicest part of Koblenz? Taking a ferry across the Rhine to the foot of the fortress there. 
 
