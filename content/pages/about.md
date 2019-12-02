@@ -3,7 +3,7 @@ title: "About"
 template: "page"
 ---
 <hr>
-I am a writer and translator living in the Rhineland. My jam is science fiction and fantasy.
+I am a writer and translator living in New Haven, Connecticut. My jam is science fiction and fantasy.
 
 (I worry about the Great Filter.) 
 

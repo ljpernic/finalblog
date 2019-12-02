@@ -6,6 +6,10 @@ template: "page"
 
 #Handy List of Blog Posts#
 
+Perniciaro, Leon. “How to Lose a Friend.” LeonPerniciaro.com, 01 December 2019, [www.leonperniciaro.com/posts/How-to-Lose-a-Friend/](https://www.leonperniciaro.com/posts/How-to-Lose-a-Friend/).
+
+Perniciaro, Leon. “Everyone was Sweaty and on Drugs.” LeonPerniciaro.com, 05 July 2019, [www.leonperniciaro.com/posts/Sweaty-and-on-Drugs/](https://www.leonperniciaro.com/posts/Sweaty-and-on-Drugs/).
+
 Perniciaro, Leon. “New Orleans is Doomed! Ask Me How.” LeonPerniciaro.com, 21 May 2019, [www.leonperniciaro.com/posts/New-Orleans-Is-Doomed/](https://www.leonperniciaro.com/posts/New-Orleans-Is-Doomed/).
 
 Perniciaro, Leon. “On Moving.” LeonPerniciaro.com, 11 May 2019, [www.leonperniciaro.com/posts/On-Moving/](https://www.leonperniciaro.com/posts/On-Moving/).
