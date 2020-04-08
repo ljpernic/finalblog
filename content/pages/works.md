@@ -5,7 +5,7 @@ template: "page"
 <hr>
 
 #Short Fiction#
-**"Smallpox Ate the Americas Once,"** forthcoming from [Factor Four Magazine](http://factorfourmag.com/).
+**"Smallpox Ate the Americas Once,"** July 2019 issue of [Factor Four Magazine](http://factorfourmag.com/).
 
 <br>
 <br>
@@ -31,4 +31,4 @@ When Tink discovers she can talk to machines, she accidentally brings to life a 
 
 </center>
 No sport is too obscure for our intrepid commentators, but when people start dying, can our hapless crew get to the bottom of things before they're forced to take the fall? An absurdist comedy.<br>
-<div style="text-align: right"><small><em>Forthcoming from <a href=http://twitter.com/chickenpmondays>Chicken Patty Mondays Productions</a>, Fall 2019</em></small></div>
+<div style="text-align: right"><small><em>Forthcoming from <a href=http://twitter.com/chickenpmondays>Chicken Patty Mondays Productions</a>, Fall 2020</em></small></div>
