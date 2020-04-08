@@ -5,7 +5,6 @@ template: "page"
 <hr>
 
 #Short Fiction#
-TEST
 **"Smallpox Ate the Americas Once,"** July 2019 issue of [Factor Four Magazine](http://factorfourmag.com/).
 
 <br>
