@@ -5,7 +5,7 @@ template: "page"
 <hr>
 
 #Short Fiction#
-**"Smallpox Ate the Americas Once,"** July 2019 issue of [Factor Four Magazine](http://factorfourmag.com/).
+["Smallpox Ate the Americas Once,"](http://factorfourmag.com/smallpox-ate-the-americas-once-by-leon-perniciaro/) July 2019 issue of [Factor Four Magazine](http://factorfourmag.com/).
 
 <br>
 <br>
